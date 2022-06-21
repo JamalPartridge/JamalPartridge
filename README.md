@@ -1,5 +1,3 @@
-### Hi there 👋🏾
-
 <h1 align="center">Hi 👋🏽, I'm Jamal Partridge</h1>
 <h3 align="center">A passionate Full Stack Web Developer with a great admiration for coding and gaming</h3>
 
